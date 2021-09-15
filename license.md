@@ -13,12 +13,12 @@ Allowed Actions:
  - Make addons based on this mod
 
 Disallowed Actions:
- - Claim ny of this project as your own
+ - Claim any of this project as your own
  - Redistribute this project without explicit permission
  - Claim monetary benefit off of any part of this project
  - Copy large parts of code without credit being given
 
-Resources within this project are not to be copied, pertaining to models, textures, and anything within the resources folder.
+Resources within this project are not to be copied, pertaining to objects such as models, textures, and anything within the resources folder.
 
 When contributing to this project the original creator keep copyright of their work, but rights to modify and use such are given
 to the owner of this repository. All code submitted is to be licensed with this license.
