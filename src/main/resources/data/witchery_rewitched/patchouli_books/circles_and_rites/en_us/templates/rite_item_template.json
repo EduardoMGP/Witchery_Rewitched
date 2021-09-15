@@ -1,0 +1,54 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.RiteProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "header",
+      "text": "#name",
+      "x": 0,
+      "y": 0,
+      "centered": false
+    },
+    {
+      "type": "separator",
+      "x": 0,
+      "y": 10
+    },
+    {
+      "type": "text",
+      "text": "$(l)Description:$() $(br)#description# $(br)$(l)Requirements:$() $(br)#requirements#",
+      "x": 0,
+      "y": 15
+    },
+    {
+      "type": "text",
+      "text": "$(l)Required Items:",
+      "x": 0, "y": 110
+    },
+    {
+      "type": "item", "item": "#item1", "x": 0, "y": 120,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item2", "x": 15, "y": 120,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item3", "x": 30, "y": 120,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item4", "x": 45, "y": 120,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item5", "x": 60, "y": 120,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item6", "x": 75, "y": 120, "link_recipe": true
+    },
+    {
+      "type": "text",
+      "text": "#power",
+      "x" : 10,
+      "y": 145
+    }
+  ]
+}

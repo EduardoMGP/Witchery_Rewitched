@@ -1,0 +1,16 @@
+{
+  "name": "Rite Of Broiling(charged)",
+  "category": "rites",
+  "icon": "minecraft:gold_ingot",
+  "priority": true,
+  "pages":[
+    {
+      "type": "witchery_rewitched:rite_item_template",
+      "recipe": "witchery_rewitched:ritual/rite_of_broiling_charged"
+    },
+    {
+      "type": "witchery_rewitched:rite_template",
+      "recipe": "witchery_rewitched:ritual/rite_of_broiling_charged"
+    }
+  ]
+}

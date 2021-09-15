@@ -1,0 +1,32 @@
+{
+  "name": "Chalk and Glyphs",
+  "category": "rites",
+  "icon": "minecraft:gold_ingot",
+  "priority": true,
+  "pages":[
+    {
+      "type": "text",
+      "text": "Chalk is the basis for rituals, drawn in circles of sizes of 7x7, 11x11, and 15x15 about the center of a gold glyph. These circles can be drawn of any of the three other chalk types, and are outlined in shape in each of the next ritual."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:ritual_chalk",
+      "text": "The base chalk for each of the other chalks, and also the the most basic chalk used to draw each circle."
+    },
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/gold_chalk",
+      "text": "This chalk is the chalk used for the center of any ritual to be casted from this chapter of the book. When right clicked it checks inside of the circle and attempts to begin the ritual if all conditions are met."
+    },
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/otherwhere_chalk",
+      "text": "This chalk is brewed through the essence of The End, used in rituals that take part in transportation or the void."
+    },
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/infernal_chalk",
+      "text": "This chalk is brewed through the essence of The Nether, which is also used in rituals that take part in the dark arts."
+    }
+  ]
+}

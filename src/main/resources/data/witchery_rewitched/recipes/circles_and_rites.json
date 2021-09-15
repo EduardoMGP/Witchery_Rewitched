@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BDF",
+    " W "
+  ],
+  "key": {
+    "#": {
+      "item": "witchery_rewitched:belladonna"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    },
+    "D": {
+      "item": "minecraft:book"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "W": {
+      "item": "witchery_rewitched:water_artichoke_bulb"
+    }
+  },
+  "result": {
+    "type":"forge:nbt",
+    "item":"patchouli:guide_book",
+    "nbt":"{'patchouli:book':'witchery_rewitched:circles_and_rites'}",
+    "count": 1
+  }
+}

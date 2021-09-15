@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":[" w "," d "," l "],"key":{"d":{"item":"minecraft:diamond"},"w":{"item":"witchery_rewitched:whiff_of_magic"},"l":{"item":"minecraft:lava_bucket"}},"result":{"item":"witchery_rewitched:attuned_stone"}}

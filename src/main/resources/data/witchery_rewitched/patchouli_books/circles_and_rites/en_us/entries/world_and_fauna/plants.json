@@ -1,0 +1,86 @@
+{
+  "name": "Plants",
+  "category": "world_and_fauna",
+  "icon": "witchery_rewitched:belladonna",
+  "priority": true,
+  "pages":[
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Belladonna",
+      "plant": "witchery_rewitched:belladonna",
+      "seed": "witchery_rewitched:belladonna_seeds",
+      "text": "This plant is the deadly nightshade, commonly used in poisons and potions all the same. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Garlic",
+      "plant": "witchery_rewitched:garlic",
+      "seed": "witchery_rewitched:garlic",
+      "text": "A minor food source and also a means of fending off the vampires of legend. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Mandrake",
+      "plant": "witchery_rewitched:mandrake_root",
+      "seed": "witchery_rewitched:mandrake_seeds",
+      "text": "A deep rooted plant best harvested at night while it is asleep, or something else may happen. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Snowbell",
+      "plant": "witchery_rewitched:icy_needle",
+      "seed": "witchery_rewitched:snowbell_seeds",
+      "text": "An icy plan that produces snowballs as well as it's normal produce. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Water Artichoke",
+      "plant": "witchery_rewitched:water_artichoke_bulb",
+      "seed": "witchery_rewitched:water_artichoke_seeds",
+      "text": "A watery bulbous plant that is used commonly in brews. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Wolfsbane",
+      "plant": "witchery_rewitched:wolfsbane",
+      "seed": "witchery_rewitched:wolfsbane_seeds",
+      "text": "A fairly mundane plant but heavily poisonous to the lycanthropes of legend. Obtained as seeds from grass."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Glintweed",
+      "plant": "witchery_rewitched:glintweed",
+      "text": "A weed by all names and accounts, grows like wildfire, but provides the same light as a torch would. Obtained by using mutandis on plants."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Ember Moss",
+      "plant": "witchery_rewitched:ember_moss",
+      "text": "Similar in style to glintweed, but it buns any who dare step on it, including items. Obtained by using mutandis on plants."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Spanish Moss",
+      "plant": "witchery_rewitched:spanish_moss",
+      "text": "A resilient creeping moss that is a particularly good vessel for magicks. Obtained by using mutandis on plants."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Alder Sapling",
+      "plant": "witchery_rewitched:alder_sapling",
+      "text": "An old tree species that harbors spiritual energy deep within it's wood, it feels almost unlucky to be near. Obtained by using mutandis on plants."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Rowan Sapling",
+      "plant": "witchery_rewitched:rowan_sapling",
+      "text": "A dense wood, that practically reeks of magic, and it's berries are a not very filling food but they keep you full for long periods of time. Obtained by using mutandis on plants."
+    },
+    {
+      "type": "witchery_rewitched:plant_page_template",
+      "name": "Hawthorn Sapling",
+      "plant": "witchery_rewitched:hawthorn_sapling",
+      "text": "A tree said to be wise in it's existance, it is scarce but pure down to it's core. Obtained by using mutandis on plants."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cauldron Recipes",
+  "category": "brewing",
+  "icon": "witchery_rewitched:drop_of_luck",
+  "priority": true,
+  "pages":[
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/drop_of_luck",
+      "text": "A basic mutating paste when used on plants converts them into plants of other types."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=age0": {
+      "model": "witchery_rewitched:block/wolfsbane/age0"
+    },
+    "age=age1": {
+      "model": "witchery_rewitched:block/wolfsbane/age1"
+    },
+    "age=age2": {
+      "model": "witchery_rewitched:block/wolfsbane/age2"
+    }
+  }
+}

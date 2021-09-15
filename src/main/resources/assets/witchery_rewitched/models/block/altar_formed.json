@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "particle": "witchery_rewitched:block/altar/side",
+    "bottom": "witchery_rewitched:block/altar/end",
+    "top": "witchery_rewitched:block/altar/top",
+    "side": "witchery_rewitched:block/altar/side_formed"
+  }
+}

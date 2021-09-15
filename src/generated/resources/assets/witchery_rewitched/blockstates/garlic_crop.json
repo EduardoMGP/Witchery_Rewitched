@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=age0": {
+      "model": "witchery_rewitched:block/garlic/age0"
+    },
+    "age=age1": {
+      "model": "witchery_rewitched:block/garlic/age1"
+    },
+    "age=age2": {
+      "model": "witchery_rewitched:block/garlic/age2"
+    }
+  }
+}

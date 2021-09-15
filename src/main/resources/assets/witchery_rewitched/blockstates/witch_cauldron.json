@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "witchery_rewitched:block/witch_cauldron"
+    },
+    "level=1": {
+      "model": "witchery_rewitched:block/witch_cauldron_level1"
+    },
+    "level=2": {
+      "model": "witchery_rewitched:block/witch_cauldron_level2"
+    },
+    "level=3": {
+      "model": "witchery_rewitched:block/witch_cauldron_level3"
+    }
+  }
+}

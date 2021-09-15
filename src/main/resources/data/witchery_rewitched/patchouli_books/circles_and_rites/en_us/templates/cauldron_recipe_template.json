@@ -1,0 +1,67 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.CauldronRecipeProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "header",
+      "text": "#result->iname",
+      "centered": false,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "separator",
+      "x": 0,
+      "y": 10
+    },
+    {
+      "type": "item", "item": "#item1", "x": 1, "y": 16,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item2", "x": 19, "y": 16,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item3", "x": 1, "y": 34,"link_recipe": true
+    },
+
+    {
+      "type": "item", "item": "#item4", "x": 19, "y": 34,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item5", "x": 1, "y": 52,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item6", "x": 19, "y": 52,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result", "x": 91, "y": 34,"link_recipe": true
+    },
+    {
+      "type": "image", "image": "witchery_rewitched:textures/book/cauldron.png", "x": 0, "y": 15,
+      "scale": 1,
+      "width": 109, "height": 54,
+      "texture_width": 109,
+      "texture_height": 54
+    },
+    {
+      "type": "text",
+      "text": "Altar Power:",
+      "x" : 60,
+      "y": 52
+    },
+
+    {
+      "type": "text",
+      "text": "#power",
+      "x" : 90,
+      "y": 60
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 0,
+      "y": 69
+    }
+  ]
+}

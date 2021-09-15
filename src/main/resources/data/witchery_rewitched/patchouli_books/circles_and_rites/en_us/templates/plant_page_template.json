@@ -1,0 +1,38 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.PlantProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "header",
+      "text": "#name",
+      "centered": false,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "separator",
+      "x": 0,
+      "y": 10
+    },
+    {
+      "type": "item", "item": "#seed", "x": 16, "y": 32,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#plant", "x": 84, "y": 32,"link_recipe": true
+    },
+    {
+      "type": "image", "image": "#image", "x": 42, "y": 20,
+      "scale": 2,
+      "width": 16, "height": 16,
+      "texture_width": 16,
+      "texture_height": 16
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 4,
+      "y": 55
+    }
+  ]
+}

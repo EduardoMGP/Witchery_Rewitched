@@ -1,0 +1,82 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.DistilleryRecipeProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "header",
+      "text": "#result11->iname",
+      "centered": false,
+      "x": 0,
+      "y": 0,
+      "scale": 0.75
+    },
+    {
+      "type": "item", "item": "#input11", "x": 1, "y": 18,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#input12", "x": 1, "y": 36,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result11", "x": 77, "y": 17,"link_recipe": true
+    },
+
+    {
+      "type": "item", "item": "#result12", "x": 77, "y": 37,"link_recipe": true
+    },
+
+    {
+      "type": "item", "item": "#result13", "x": 97, "y": 17,"link_recipe": true
+    },
+
+    {
+      "type": "item", "item": "#result14", "x": 97, "y": 37,"link_recipe": true
+    },
+    {
+      "type": "header",
+      "text": "#rName",
+      "centered": false,
+      "x": 0,
+      "y": 60,
+      "scale": 0.75
+    },
+    {
+      "type": "item", "item": "#input21", "x": 1, "y": 74,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#input22", "x": 1, "y": 92,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result21", "x": 77, "y": 73,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result22", "x":77, "y": 93,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result23", "x": 97, "y": 73,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result24", "x": 97, "y": 93,"link_recipe": true
+    },
+    {
+      "type": "image", "image": "witchery_rewitched:textures/book/distillery.png", "x": 0, "y": 15,
+      "scale": 1,
+      "width": 115, "height": 40,
+      "texture_width": 115,
+      "texture_height": 40
+    },
+    {
+      "type": "image", "image": "#image", "x": 0, "y": 71,
+      "scale": 1,
+      "width": 115, "height": 40,
+      "texture_width": 115,
+      "texture_height": 40
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 0,
+      "y": 69
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "witchery_rewitched:block/ritual_glyph/8"
+  }
+}

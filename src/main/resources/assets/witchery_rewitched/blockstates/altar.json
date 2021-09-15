@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "formed=false,core=false": {
+      "model": "witchery_rewitched:block/altar"
+    },
+    "formed=true,core=false": {
+      "model": "witchery_rewitched:block/altar_formed"
+    },
+    "formed=false,core=true": {
+      "model": "witchery_rewitched:block/altar_core"
+    },
+    "formed=true,core=true": {
+      "model": "witchery_rewitched:block/altar_core_formed"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "The Arthana",
+  "category": "tools_and_fetishes",
+  "icon": "witchery_rewitched:arthana",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The arthana is one of the first tools within a witch's arsenal, it is as enchantable as a gold sword and effective as a gold sword, but as durable as an iron sword. This tool and weapon can be used to obtain rare drops from animals such as wool of bat."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:arthana",
+      "text": "The arthana can also be placed on an altar to significantly increase the range at which it provides power to rituals or machines."
+    }
+  ]
+}

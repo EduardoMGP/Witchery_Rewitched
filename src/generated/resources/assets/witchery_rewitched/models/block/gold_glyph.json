@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "witchery_rewitched:block/gold_glyph"
+  }
+}

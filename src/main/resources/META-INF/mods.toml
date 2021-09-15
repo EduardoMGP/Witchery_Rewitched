@@ -1,0 +1,38 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]] #mandatory
+    modId="witchery_rewitched"
+    version="${file.jarVersion}"
+    displayName="Witchery: The Rewitchening" #mandatory
+    logoFile="examplemod.png" #optional
+    credits="Eminoph the original creator of witchery" #optional
+    authors="hero3112" #optional
+    description='''
+    This is a in development mod for the revival of witchery the 1.7.10 minecraft mod. Until release all ideas are creditted to the original creator, Eminoph, and upon release more may be added. Expereience witching in it's fullest! '''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.witchery_rewitched]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[36,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.witchery_rewitched]]
+    modId="minecraft"
+    mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.witchery_rewitched]]
+    modId="patchouli"
+    mandatory=false
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.4-53.1,)"

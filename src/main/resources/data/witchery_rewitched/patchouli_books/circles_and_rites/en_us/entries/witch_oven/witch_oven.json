@@ -1,0 +1,32 @@
+{
+  "name": "The Witch Oven",
+  "category": "witch_oven",
+  "icon": "witchery_rewitched:witch_oven",
+  "priority": true,
+  "pages":[
+    {
+      "type": "text",
+      "header": "Witch Oven",
+      "text": "The witch oven is a different version of the furnace that is commonly used to collect fumes. The witch oven will not function without a clay pot in it to collect the fumes to prevent pollution of the air with magical essences."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:witch_oven",
+      "recipe2": "witchery_rewitched:uncooked_clay_pot"
+    },
+    {
+      "type": "smelting",
+      "recipe": "witchery_rewitched:cooked_clay_pot",
+      "text": "On the next page there are fume funnels which when placed above the oven and aligned properly, increase processing time, fuel efficiency, and chance for fume output. Only up to two can be placed above an altar."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:fume_funnel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:fume_filter",
+      "recipe2": "witchery_rewitched:filtered_fume_funnel"
+    }
+  ]
+}

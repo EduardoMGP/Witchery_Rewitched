@@ -1,0 +1,18 @@
+{
+  "name": "The Distillery",
+  "category": "distilling",
+  "icon": "witchery_rewitched:distillery",
+  "priority": true,
+  "pages":[
+    {
+      "type": "text",
+      "text": "The distillery is a means to take some items and convert them into the others through the alchemical process of distilling. This machine does not take power but it does require that an altar is within range."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:distillery",
+      "text": ""
+    }
+
+  ]
+}

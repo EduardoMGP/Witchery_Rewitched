@@ -1,0 +1,68 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.OvenRecipeProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "header",
+      "text": "#result2->iname",
+      "centered": false,
+      "x": 0,
+      "y": 0,
+      "scale": 0.75
+    },
+    {
+      "type": "item", "item": "#item1", "x": 1, "y": 18,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item2", "x": 1, "y": 36,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result1", "x": 54, "y": 17,"link_recipe": true
+    },
+
+    {
+      "type": "item", "item": "#result2", "x": 54, "y": 37,"link_recipe": true
+    },
+    {
+      "type": "header",
+      "text": "#rName",
+      "centered": false,
+      "x": 0,
+      "y": 60,
+      "scale": 0.75
+    },
+    {
+      "type": "item", "item": "#item3", "x": 1, "y": 73,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#item4", "x": 1, "y": 92,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result3", "x": 54, "y": 72,"link_recipe": true
+    },
+    {
+      "type": "item", "item": "#result4", "x": 54, "y": 92,"link_recipe": true
+    },
+    {
+      "type": "image", "image": "witchery_rewitched:textures/book/witch_oven.png", "x": 0, "y": 15,
+      "scale": 1,
+      "width": 72, "height": 40,
+      "texture_width": 72,
+      "texture_height": 40
+    },
+    {
+      "type": "image", "image": "#image", "x": 0, "y": 70,
+      "scale": 1,
+      "width": 72, "height": 40,
+      "texture_width": 72,
+      "texture_height": 40
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 0,
+      "y": 69
+    }
+  ]
+}

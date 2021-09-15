@@ -1,0 +1,139 @@
+{
+  "variants": {
+    "facing=north,variant=0": {
+      "model": "witchery_rewitched:block/infernal_glyph/0"
+    },
+    "facing=south,variant=0": {
+      "model": "witchery_rewitched:block/infernal_glyph/0",
+      "y": 90
+    },
+    "facing=west,variant=0": {
+      "model": "witchery_rewitched:block/infernal_glyph/0",
+      "y": 270
+    },
+    "facing=east,variant=0": {
+      "model": "witchery_rewitched:block/infernal_glyph/0",
+      "y": 180
+    },
+    "facing=north,variant=1": {
+      "model": "witchery_rewitched:block/infernal_glyph/1"
+    },
+    "facing=south,variant=1": {
+      "model": "witchery_rewitched:block/infernal_glyph/1",
+      "y": 90
+    },
+    "facing=west,variant=1": {
+      "model": "witchery_rewitched:block/infernal_glyph/1",
+      "y": 270
+    },
+    "facing=east,variant=1": {
+      "model": "witchery_rewitched:block/infernal_glyph/1",
+      "y": 180
+    },
+    "facing=north,variant=2": {
+      "model": "witchery_rewitched:block/infernal_glyph/2"
+    },
+    "facing=south,variant=2": {
+      "model": "witchery_rewitched:block/infernal_glyph/2",
+      "y": 90
+    },
+    "facing=west,variant=2": {
+      "model": "witchery_rewitched:block/infernal_glyph/2",
+      "y": 270
+    },
+    "facing=east,variant=2": {
+      "model": "witchery_rewitched:block/infernal_glyph/2",
+      "y": 180
+    },
+    "facing=north,variant=3": {
+      "model": "witchery_rewitched:block/infernal_glyph/3"
+    },
+    "facing=south,variant=3": {
+      "model": "witchery_rewitched:block/infernal_glyph/3",
+      "y": 90
+    },
+    "facing=west,variant=3": {
+      "model": "witchery_rewitched:block/infernal_glyph/3",
+      "y": 270
+    },
+    "facing=east,variant=3": {
+      "model": "witchery_rewitched:block/infernal_glyph/3",
+      "y": 180
+    },
+    "facing=north,variant=4": {
+      "model": "witchery_rewitched:block/infernal_glyph/4"
+    },
+    "facing=south,variant=4": {
+      "model": "witchery_rewitched:block/infernal_glyph/4",
+      "y": 90
+    },
+    "facing=west,variant=4": {
+      "model": "witchery_rewitched:block/infernal_glyph/4",
+      "y": 270
+    },
+    "facing=east,variant=4": {
+      "model": "witchery_rewitched:block/infernal_glyph/4",
+      "y": 180
+    },
+    "facing=north,variant=5": {
+      "model": "witchery_rewitched:block/infernal_glyph/5"
+    },
+    "facing=south,variant=5": {
+      "model": "witchery_rewitched:block/infernal_glyph/5",
+      "y": 90
+    },
+    "facing=west,variant=5": {
+      "model": "witchery_rewitched:block/infernal_glyph/5",
+      "y": 270
+    },
+    "facing=east,variant=5": {
+      "model": "witchery_rewitched:block/infernal_glyph/5",
+      "y": 180
+    },
+    "facing=north,variant=6": {
+      "model": "witchery_rewitched:block/infernal_glyph/6"
+    },
+    "facing=south,variant=6": {
+      "model": "witchery_rewitched:block/infernal_glyph/6",
+      "y": 90
+    },
+    "facing=west,variant=6": {
+      "model": "witchery_rewitched:block/infernal_glyph/6",
+      "y": 270
+    },
+    "facing=east,variant=6": {
+      "model": "witchery_rewitched:block/infernal_glyph/6",
+      "y": 180
+    },
+    "facing=north,variant=7": {
+      "model": "witchery_rewitched:block/infernal_glyph/7"
+    },
+    "facing=south,variant=7": {
+      "model": "witchery_rewitched:block/infernal_glyph/7",
+      "y": 90
+    },
+    "facing=west,variant=7": {
+      "model": "witchery_rewitched:block/infernal_glyph/7",
+      "y": 270
+    },
+    "facing=east,variant=7": {
+      "model": "witchery_rewitched:block/infernal_glyph/7",
+      "y": 180
+    },
+    "facing=north,variant=8": {
+      "model": "witchery_rewitched:block/infernal_glyph/8"
+    },
+    "facing=south,variant=8": {
+      "model": "witchery_rewitched:block/infernal_glyph/8",
+      "y": 90
+    },
+    "facing=west,variant=8": {
+      "model": "witchery_rewitched:block/infernal_glyph/8",
+      "y": 270
+    },
+    "facing=east,variant=8": {
+      "model": "witchery_rewitched:block/infernal_glyph/8",
+      "y": 180
+    }
+  }
+}

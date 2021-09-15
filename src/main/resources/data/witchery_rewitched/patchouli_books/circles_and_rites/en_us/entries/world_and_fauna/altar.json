@@ -1,0 +1,25 @@
+{
+  "name": "Altar",
+  "category": "world_and_fauna",
+  "icon": "witchery_rewitched:altar",
+  "priority": true,
+  "pages":[
+    {
+      "type": "text",
+      "text": "The witch's altar is the means to provide power to all of a witch's things, this includes rituals, the distillery, and the cauldron."
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "A": "witchery_rewitched:altar[formed=true]",
+          "0": "witchery_rewitched:altar[formed=true, core=true]"
+        },
+        "pattern": [
+          ["A0A","AAA"]
+        ]
+      },
+      "enable_visualize": true
+    }
+  ]
+}

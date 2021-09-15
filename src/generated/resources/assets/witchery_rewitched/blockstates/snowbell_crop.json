@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=age0": {
+      "model": "witchery_rewitched:block/snowbell/age0"
+    },
+    "age=age1": {
+      "model": "witchery_rewitched:block/snowbell/age1"
+    },
+    "age=age2": {
+      "model": "witchery_rewitched:block/snowbell/age2"
+    }
+  }
+}

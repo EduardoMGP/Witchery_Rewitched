@@ -1,0 +1,17 @@
+{
+  "name": "Taglocks",
+  "category": "tools_and_fetishes",
+  "icon": "witchery_rewitched:taglock_kit",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The taglock kit is use to get the essence of a player to bind it to a ritual or a poppet. The taglock kit can be used on a bed to gather essence from the last player who slept in it. It is more effective to sneak behind a player to get their taglock kit than approach them loudly and directly."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:bone_needle",
+      "recipe2": "witchery_rewitched:taglock_kit"
+    }
+  ]
+}

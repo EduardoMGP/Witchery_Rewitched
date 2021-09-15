@@ -1,0 +1,19 @@
+{
+  "name": "Cauldron",
+  "category": "brewing",
+  "icon": "witchery_rewitched:anointing_paste",
+  "priority": true,
+  "pages":[
+    {
+      "type": "text",
+      "text": "The cauldron is one the most basic machines for a witch to use, it allows you to create brews among other items by dropping items into it. If you have placed a valid recipe into it, the liquid will change color. You can empty the cauldron by shift right clicking it with an empty hand."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:anointing_paste",
+      "title": "Anointing Paste",
+      "text": "Anointing paste is a mash of different seeds that hold varying amounts of magical energy that when smeared upon a cauldron infuse it with magical power, turning it into the witch's cauldron."
+    }
+
+  ]
+}

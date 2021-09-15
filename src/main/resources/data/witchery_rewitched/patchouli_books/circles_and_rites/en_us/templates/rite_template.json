@@ -1,0 +1,52 @@
+{
+  "processor": "com.hero.witchery_rewitched.api.processors.RiteProcessor",
+  "name": "Something I think",
+  "icon": "minecraft:written_book",
+  "components": [
+    {
+      "type": "text",
+      "text": "$(l)Required Circles:$()",
+      "x": 4,
+      "y": 0
+    },
+    {
+      "type": "text",
+      "text": "#circle",
+      "x": 4,
+      "y": 0
+    },
+    {
+      "type": "image",
+      "image": "#shape1",
+      "width": "195",
+      "height": "195",
+      "x": 4,
+      "y": 40,
+      "scale": 0.5,
+      "texture_width": "195",
+      "texture_height": "195"
+    },
+    {
+      "type": "image",
+      "image": "#shape2",
+      "width": "195",
+      "height": "195",
+      "x": 4,
+      "y": 40,
+      "scale": 0.5,
+      "texture_width": "195",
+      "texture_height": "195"
+    },
+    {
+      "type": "image",
+      "image": "#shape3",
+      "width": "195",
+      "height": "195",
+      "x": 4,
+      "y": 40,
+      "scale": 0.5,
+      "texture_width": "195",
+      "texture_height": "195"
+    }
+  ]
+}

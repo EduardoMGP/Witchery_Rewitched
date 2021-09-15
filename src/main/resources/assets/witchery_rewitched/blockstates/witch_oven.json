@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "witchery_rewitched:block/witch_oven"
+    },
+    "facing=south": {
+      "model": "witchery_rewitched:block/witch_oven",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "witchery_rewitched:block/witch_oven",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "witchery_rewitched:block/witch_oven",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "witchery_rewitched:block/garlic/age2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Poppets",
+  "category": "tools_and_fetishes",
+  "icon": "witchery_rewitched:poppet",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The poppet is the first of a witch's tools for protection. While the base poppet does not do much for the with on it's own, when it is combined with materials of specific natures and bound to you, it may prevent certain events from occuring."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:poppet",
+      "text": "The base poppet, not quite useful but a good component for the other poppets. The poppets are bound by holding a bound taglock kit in one hand and the poppet in another and right clicking."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:fire_protection_poppet",
+      "text": "The fire protection poppet prevents a bound user from dying due to any source of fire once, and provides protection from it for a short period of time upon triggering."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:water_protection_poppet",
+      "text": "The water protection poppet prevents a bound user from dying due to drowning once, and provides the ability to breath under water for a short period of time upon triggering."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:earth_protection_poppet",
+      "text": "The earth protection poppet prevents a bound user from dying due to falling once."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:hunger_protection_poppet",
+      "text": "The hunger protection poppet prevents a bound user from dying due to starvation once, and provides the a small amount of hunger to the user."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:death_protection_poppet",
+      "text": "The death protection poppet prevents a bound user from dying from any cause once."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:armor_protection_poppet",
+      "text": "The armor protection poppet prevents a singular piece of armor that the user is wearing from breaking once and fully repairs it."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:tool_protection_poppet",
+      "text": "The tool protection poppet prevents a singular tool the user is using from breaking once and fully repairs it."
+    },
+    {
+      "type": "crafting",
+      "recipe": "witchery_rewitched:poppet_shelf",
+      "text": "The poppet shelf holds up to 4 poppets and allows you to trigger these poppets from outside of your inventory."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mutandis",
+  "category": "brewing",
+  "icon": "witchery_rewitched:mutandis",
+  "priority": true,
+  "pages":[
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/mutandis",
+      "text": "A basic mutating paste when used on plants converts them into plants of other types."
+    },
+    {
+      "type": "witchery_rewitched:cauldron_recipe_template",
+      "recipe": "witchery_rewitched:witch_cauldron/mutandis_extremis",
+      "text": "A mutating paste that can be used on dirt to make mycelium as well as make underwater dirt clay."
+    }
+
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "variants": {
+    "east=false,north=false,south=false,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1"
+    },
+    "east=false,north=false,south=false,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/1",
+      "y": 90
+    },
+    "east=false,north=false,south=false,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/u"
+    },
+    "east=false,north=false,south=false,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/1u",
+      "y": 90
+    },
+    "east=false,north=false,south=true,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1"
+    },
+    "east=false,north=false,south=true,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2",
+      "y": 180
+    },
+    "east=false,north=false,south=true,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1u"
+    },
+    "east=false,north=false,south=true,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2u",
+      "y": 180
+    },
+    "east=false,north=true,south=false,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1",
+      "y": 180
+    },
+    "east=false,north=true,south=false,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2",
+      "y": 270
+    },
+    "east=false,north=true,south=false,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1u",
+      "y": 180
+    },
+    "east=false,north=true,south=false,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2u",
+      "y": 270
+    },
+    "east=false,north=true,south=true,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2_opposite",
+      "y": 90
+    },
+    "east=false,north=true,south=true,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3",
+      "y": 180
+    },
+    "east=false,north=true,south=true,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2u_opposite",
+      "y": 90
+    },
+    "east=false,north=true,south=true,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3u",
+      "y": 180
+    },
+    "east=true,north=false,south=false,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1",
+      "y": 270
+    },
+    "east=true,north=false,south=false,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2_opposite"
+    },
+    "east=true,north=false,south=false,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/1u",
+      "y": 270
+    },
+    "east=true,north=false,south=false,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/2u_opposite"
+    },
+    "east=true,north=false,south=true,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2",
+      "y": 90
+    },
+    "east=true,north=false,south=true,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3",
+      "y": 90
+    },
+    "east=true,north=false,south=true,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2u",
+      "y": 90
+    },
+    "east=true,north=false,south=true,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3u",
+      "y": 90
+    },
+    "east=true,north=true,south=false,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2"
+    },
+    "east=true,north=true,south=false,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3",
+      "y": 270
+    },
+    "east=true,north=true,south=false,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/2u"
+    },
+    "east=true,north=true,south=false,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/3u",
+      "y": 270
+    },
+    "east=true,north=true,south=true,up=false,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/3"
+    },
+    "east=true,north=true,south=true,up=false,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/4"
+    },
+    "east=true,north=true,south=true,up=true,west=false": {
+      "model": "witchery_rewitched:block/spanish_moss/3u"
+    },
+    "east=true,north=true,south=true,up=true,west=true": {
+      "model": "witchery_rewitched:block/spanish_moss/4u"
+    }
+  }
+}

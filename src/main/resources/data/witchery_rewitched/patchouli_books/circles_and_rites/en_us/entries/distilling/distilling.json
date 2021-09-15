@@ -1,0 +1,24 @@
+{
+  "name": "Distillery Recipes",
+  "category": "distilling",
+  "icon": "witchery_rewitched:refined_evil",
+  "priority": true,
+  "pages":[
+    {
+      "type": "witchery_rewitched:distillery_recipe_template",
+      "recipe": "witchery_rewitched:distillery/tear_of_the_goddess",
+      "text": "These are the currently existing distilling recipes."
+    },
+    {
+      "type": "witchery_rewitched:distillery_recipe_template",
+      "recipe": "witchery_rewitched:distillery/diamond_vapor",
+      "recipe2": "witchery_rewitched:distillery/gypsum"
+    },
+    {
+      "type": "witchery_rewitched:distillery_recipe_template",
+      "recipe": "witchery_rewitched:distillery/ender_dew",
+      "recipe2": "witchery_rewitched:distillery/refined_evil"
+    }
+
+  ]
+}
